@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidCoding</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="intro_image">Intro Image</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="accept_t_c"><![CDATA[accept T & C]]></string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
